@@ -17,4 +17,4 @@ This project demonstrates how Python can be used to clean, analyze, and visualiz
 
 ## Files
 - sales_analysis.ipynb – Jupyter Notebook containing the analysis
-- data/sales_data.csv – Dataset used for analysis
+- data/sales_data.xlsx – Dataset used for analysis
